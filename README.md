@@ -8,6 +8,8 @@ Learn basic of using git and GitHub
 ### git reset head fileName             * remove file from staged
 ### git restore --staged fileName       * remove file from staged
 ### git commit -m "message"				      * move from stage to local repo
+### git push remote localbranch			*push commits to remote repo			
+
 
 
 
