@@ -19,6 +19,7 @@ Learn basic of using git and GitHub
 ### git branch -d brancheName            * delete branch safe delete
 ### git branch -D brancheName            * delete branch force delete
 ### git checkout -b branchName            * create new branch and switch to it
+### git branch -m newName                  * rename branch
 
 
 
