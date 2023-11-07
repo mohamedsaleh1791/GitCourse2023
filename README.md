@@ -14,6 +14,11 @@ Learn basic of using git and GitHub
 ### git remote -v                    * get remote branches
 ### git init                         * intialize new repo from local
 ### git add remote URL                *to add remote repo
+### git branch brancheName            * create new branch
+### git checkout branchName            * switch to another branch
+### git branch -d brancheName            * delete branch safe delete
+### git branch -D brancheName            * delete branch force delete
+### git checkout -b branchName            * create new branch and switch to it
 
 
 
