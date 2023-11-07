@@ -12,7 +12,8 @@ Learn basic of using git and GitHub
 ### git pull origin                 * pull changes to local from remote
 ### git branch                       * get local working branch
 ### git remote -v                    * get remote branches
-
+### git init                         * intialize new repo from local
+### git add remote URL                *to add remote repo
 
 
 
